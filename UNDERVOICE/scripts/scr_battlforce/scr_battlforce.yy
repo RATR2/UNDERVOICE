@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_battlforce",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_battlforce",
+  "parent":{
+    "name":"Mod",
+    "path":"folders/Scripts/Mod.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

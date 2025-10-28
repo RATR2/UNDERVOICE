@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_itemcheck",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_itemcheck",
+  "parent":{
+    "name":"Item",
+    "path":"folders/Scripts/Item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

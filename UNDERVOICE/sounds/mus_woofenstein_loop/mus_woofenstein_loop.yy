@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_woofenstein_loop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":13.718639,
+  "exportDir":"",
+  "name":"mus_woofenstein_loop",
+  "parent":{
+    "name":"Battle",
+    "path":"folders/Sounds/Music/Battle.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_woofenstein_loop.ogg",
+  "volume":1.0,
+}

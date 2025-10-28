@@ -1,0 +1,10 @@
+# Ignore vanilla assets
+# These must not be included in the repo
+vanilla/*.win
+# Ignore build outputs (large size)
+build/all/exe/v1.1-2/VoiceDetection.exe
+build/all/exe/v1.2/VoiceDetection.exe
+build/latest/exe/v1.2/VoiceDetection.exe
+# Ignore built zips
+build/latest/*.zip
+build/all/*.zip

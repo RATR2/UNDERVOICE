@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_torcall",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_torcall",
+  "parent":{
+    "name":"Call",
+    "path":"folders/Scripts/Call.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

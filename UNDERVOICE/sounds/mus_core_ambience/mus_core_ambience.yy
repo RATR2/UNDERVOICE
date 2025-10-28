@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_core_ambience",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.0851703,
+  "exportDir":"",
+  "name":"mus_core_ambience",
+  "parent":{
+    "name":"Core",
+    "path":"folders/Sounds/Music/Hotland/Core.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_core_ambience.ogg",
+  "volume":1.0,
+}

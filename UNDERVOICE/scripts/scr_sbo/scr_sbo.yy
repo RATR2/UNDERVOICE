@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_sbo",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_sbo",
+  "parent":{
+    "name":"Sans",
+    "path":"folders/Scripts/Battle/Sans.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

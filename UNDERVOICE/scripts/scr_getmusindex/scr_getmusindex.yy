@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_getmusindex",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_getmusindex",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Scripts/Common/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

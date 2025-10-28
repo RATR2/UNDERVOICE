@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_armoreq",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_armoreq",
+  "parent":{
+    "name":"Item",
+    "path":"folders/Scripts/Item.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

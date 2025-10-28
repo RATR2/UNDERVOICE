@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_cost",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_cost",
+  "parent":{
+    "name":"Info",
+    "path":"folders/Scripts/Common/Info.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

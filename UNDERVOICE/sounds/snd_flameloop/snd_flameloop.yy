@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_flameloop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.42956915,
+  "exportDir":"",
+  "name":"snd_flameloop",
+  "parent":{
+    "name":"Photoshop Flowey",
+    "path":"folders/Sounds/SoundFX/Battle/Characters/Photoshop Flowey.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_flameloop",
+  "volume":1.0,
+}

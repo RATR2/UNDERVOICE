@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_ruinspiano",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":69.34494,
+  "exportDir":"",
+  "name":"mus_ruinspiano",
+  "parent":{
+    "name":"Unused",
+    "path":"folders/Sounds/Music/Unused.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_ruinspiano.ogg",
+  "volume":1.0,
+}

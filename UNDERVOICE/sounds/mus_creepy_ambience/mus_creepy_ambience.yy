@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_creepy_ambience",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":20.591745,
+  "exportDir":"",
+  "name":"mus_creepy_ambience",
+  "parent":{
+    "name":"Snowdin",
+    "path":"folders/Sounds/Music/Snowdin.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_creepy_ambience.ogg",
+  "volume":1.0,
+}

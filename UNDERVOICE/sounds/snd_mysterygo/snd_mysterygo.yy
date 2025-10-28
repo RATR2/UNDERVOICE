@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_mysterygo",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.201542,
+  "exportDir":"",
+  "name":"snd_mysterygo",
+  "parent":{
+    "name":"Waterfall",
+    "path":"folders/Sounds/SoundFX/Overworld/Waterfall.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_mysterygo",
+  "volume":1.0,
+}

@@ -1,0 +1,32 @@
+# Ignore vanilla assets
+# These must not be included in the repo
+
+fonts/*/*
+!fonts/*/*.yy
+
+sounds/*/*
+!sounds/*/*.yy
+
+sprites/*/*
+!sprites/*/*.yy
+
+tilesets/*/*
+!tilesets/*/*.yy
+
+# Unignore decomp custom assets
+# These should be okay to include
+
+!sounds/*_decomp_*/**/*
+!sprites/*_decomp_*/**/*
+
+# GameMaker stuff
+
+*.resource_order
+
+# IDE / text editor folders
+
+.vscode/
+
+# UTMT CLI stuff
+UTMT_CLI_*/
+UTMT_CLI_*.zip
