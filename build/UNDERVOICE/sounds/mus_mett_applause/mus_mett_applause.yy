@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_mett_applause",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.488526,
+  "exportDir":"",
+  "name":"mus_mett_applause",
+  "parent":{
+    "name":"Hotland",
+    "path":"folders/Sounds/SoundFX/Overworld/Hotland.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_mett_applause.ogg",
+  "volume":1.0,
+}

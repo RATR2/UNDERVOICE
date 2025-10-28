@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_torface",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_torface",
+  "parent":{
+    "name":"Faces",
+    "path":"folders/Scripts/Text/Faces.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

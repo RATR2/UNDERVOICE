@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_wonderfulidea",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.459864,
+  "exportDir":"",
+  "name":"snd_wonderfulidea",
+  "parent":{
+    "name":"Flowey",
+    "path":"folders/Sounds/SoundFX/Overworld/Characters/Flowey.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_wonderfulidea",
+  "volume":1.0,
+}

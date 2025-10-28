@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_phoneget",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"scr_phoneget",
+  "parent":{
+    "name":"Phone",
+    "path":"folders/Scripts/UI/Phone.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

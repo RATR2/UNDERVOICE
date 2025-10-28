@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_myemeow",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.703855,
+  "exportDir":"",
+  "name":"mus_myemeow",
+  "parent":{
+    "name":"Bratty and Catty",
+    "path":"folders/Sounds/SoundFX/Shops/Bratty and Catty.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_myemeow.ogg",
+  "volume":1.0,
+}

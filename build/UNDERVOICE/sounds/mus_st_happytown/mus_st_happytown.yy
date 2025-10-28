@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_st_happytown",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.3220862,
+  "exportDir":"",
+  "name":"mus_st_happytown",
+  "parent":{
+    "name":"Sound Test",
+    "path":"folders/Sounds/Music/Sound Test.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_st_happytown.ogg",
+  "volume":1.0,
+}

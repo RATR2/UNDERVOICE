@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"textdata_en",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"textdata_en",
+  "parent":{
+    "name":"Common",
+    "path":"folders/Scripts/Common.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

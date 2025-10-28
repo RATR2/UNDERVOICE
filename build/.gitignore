@@ -1,1 +1,3 @@
-_internal/torch/lib/torch_cpu.dll
+# Ignore vanilla assets
+# These must not be included in the repo
+vanilla/*
