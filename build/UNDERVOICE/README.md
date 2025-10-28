@@ -1,3 +1,9 @@
+THIS PROJECT USES UNDERTALE-DC (A DECOMPILER FOR UNDERTALE)
+WE ENDORSE THE USE OF UNDERTALE-CD AND RECOMEND IT.
+THANKS, THIS IS THEIR README.
+
+-------------------------------------------------------
+
 # Undertale-DC
 \- PLEASE NOTE THIS IS STILL A WORK IN PROGRESS! -<br>
 A decompilation of the latest version of UNDERTALE for the Xbox One ported to the latest Gamemaker Studio 2 Beta with many added toggleable enhancements<br>
