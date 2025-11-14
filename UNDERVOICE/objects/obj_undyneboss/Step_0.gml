@@ -663,18 +663,26 @@ if (con == 71 && instance_exists(OBJ_WRITER) == false)
 if (con == 73)
 {
 	instance_create(x, y, obj_unfader)
-	FL_UndyneStatus = UndyneStatus.Killed
-	global.plot = 122
+    if (!global.fakefight) {
+	   FL_UndyneStatus = UndyneStatus.Killed
+	   global.plot = 122
+    }
 	alarm[9] = 10
 	con = 74
 }
 FL_UndyneDeathHP = global.monsterhp[myself]
 if (obj_heart.sprite_index == spr_heart)
-	global.mercy = 0
+    if (!global.fakefight) { 
+        global.mercy = 0
+    }
 if (obj_heart.sprite_index == spr_heartgreen)
-	global.mercy = 1
+    if (!global.fakefight) { 
+        global.mercy = 1
+    }
 if (died == 1)
-	global.mercy = 1
+    if (!global.fakefight) {
+        global.mercy = 1   
+    }
 if (died == 1 && con >= 53 && con < 60)
 {
 	if (caster_is_playing(deadmusic1) == false && caster_is_playing(deadmusic2) == false)

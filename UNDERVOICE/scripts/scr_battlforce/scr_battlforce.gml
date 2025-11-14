@@ -17,36 +17,50 @@ function scr_battlforce(whom) {
         case "undyne":
             global.battlegroup = BattleGroup.Undyne
             global.fakefight = true
+            global.oldmercy = global.mercy
+            global.mercy = 0
 			global.border = 12
             scr_save()
             break;
         case "sans":
             global.battlegroup = BattleGroup.Sans
+            global.oldmercy = global.mercy
+            global.mercy = 0
             global.fakefight = true
             scr_save()
             break;
         case "papyrus":
 			global.battlegroup = BattleGroup.Papyrus
+            global.oldmercy = global.mercy
+            global.mercy = 0
             global.fakefight = true
             scr_save()
             break;
 		case "asriel":
 			global.battlegroup = BattleGroup.Asriel
+            global.oldmercy = global.mercy
+            global.mercy = 0
             global.fakefight = true
             scr_save()
             break;
 		case "asgore":
 			global.battlegroup = BattleGroup.AsgoreIntro
+            global.oldmercy = global.mercy
+            global.mercy = 0
             global.fakefight = true
             scr_save()
             break;
 		case "dummy":
 			global.battlegroup = BattleGroup.MadDummy
+            global.oldmercy = global.mercy
+            global.mercy = 0
             global.fakefight = true
             scr_save()
             break;
 		case "toriel":
 			global.battlegroup = BattleGroup.Toriel
+            global.oldmercy = global.mercy
+            global.mercy = 0
             global.fakefight = true
             scr_save()
             break;

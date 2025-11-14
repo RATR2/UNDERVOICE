@@ -10,7 +10,7 @@
   "compression":3,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.764807,
+  "duration":0.7648073,
   "exportDir":"",
   "name":"mus_doorclose",
   "parent":{

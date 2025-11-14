@@ -1,4 +1,8 @@
-global.fakefight = false
+if global.fakefight == true { 
+    global.fakefight = false 
+    global.mercy = global.oldmercy 
+    global.oldmercy = undefined   
+}
 if (floor((msgnum / 100)) == 1)
 	global.typer = 32
 else if (floor((msgnum / 100)) == 3)

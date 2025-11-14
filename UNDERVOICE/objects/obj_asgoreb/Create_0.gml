@@ -8,7 +8,9 @@ mypart1 = instance_create((x + 40), y, part1)
 part2 = obj_asgorespear
 mypart2 = instance_create(((x + 76) + 40), (y + 100), part2)
 global.tempvalue[10] = 1
-global.mercy = 2
+if (!global.fakefight) {
+    global.mercy = 2   
+}
 obj_sparebt.visible = false
 alarm[9] = 8
 hurtanim = 0
@@ -19,7 +21,9 @@ attacked = 0
 killed = 0
 global.heard = 0
 takedamage = 0
-mercymod = 10
+if (!global.fakefight) {
+    mercymod = 10
+}
 sha = 0
 shb = 0
 myself = 0

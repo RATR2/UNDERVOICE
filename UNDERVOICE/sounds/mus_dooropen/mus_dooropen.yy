@@ -10,7 +10,7 @@
   "compression":3,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.436825,
+  "duration":0.4368254,
   "exportDir":"",
   "name":"mus_dooropen",
   "parent":{

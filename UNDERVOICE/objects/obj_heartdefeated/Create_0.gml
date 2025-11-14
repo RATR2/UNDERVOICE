@@ -16,10 +16,11 @@ dingus = 0
 currentvol = 1
 heartcon = 0
 hearttimer = 0
+global.oldmercy = global.mercy
 if (!global.fakefight){ 
-    if (FL_FightingAsriel == 1) {
-	   FL_ButItRefused += 1
-	   global.border = 0
-	   dingus = 0
+    if (FL_FightingAsriel == 1) { 
+        FL_ButItRefused += 1 
+        global.border = 0
+        dingus = 0
     }
 }

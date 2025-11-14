@@ -59,12 +59,16 @@ murder = 0
 if (scr_murderlv() >= MurderLevel.Lv7TundraKills)
 {
 	murder = 1
-	FL_NeutralPapyrusSpared = true
+    if (!global.fakefight) {
+	   FL_NeutralPapyrusSpared = true
+    }
 	global.monsterdef[myself] = -20000
 	dontcancel = 0
 	alarm[8] = -2
 	bonetalk3 = 2
-	mercymod = 8000
+    if (!global.fakefight) {
+	   mercymod = 8000
+    }
 }
 blcon = 8589458454 // Vultu: TODO: What is this??
 blconwd = 584589485934

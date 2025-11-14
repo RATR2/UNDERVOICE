@@ -20,7 +20,9 @@ with (obj_battlebg)
 	instance_destroy()
 obj_borderparent.visible = false
 global.faceemotion = 0
-global.mercy = 2
+if (!global.fakefight) {
+    global.mercy = 2
+}
 image_xscale = 2
 image_yscale = 2
 if (murder == 0)
